@@ -27,20 +27,20 @@
 
 <channel>
 	<title>Gift Platform</title>
-	<link>https://gifting.digital</link>
+	<link>https://platform.gifting.digital</link>
 	<description>Make and send gifts</description>
 	<pubDate>Wed, 27 Sep 2017 11:07:41 +0000</pubDate>
 	<language></language>
 	<wp:wxr_version>1.1</wp:wxr_version>
-	<wp:base_site_url>https://gifting.digital/wp</wp:base_site_url>
-	<wp:base_blog_url>https://gifting.digital</wp:base_blog_url>
+	<wp:base_site_url>https://platform.gifting.digital/wp</wp:base_site_url>
+	<wp:base_blog_url>https://platform.gifting.digital</wp:base_blog_url>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>ben</wp:author_login><wp:author_email>benjamin.bedwell@nottingham.ac.uk</wp:author_email><wp:author_display_name><![CDATA[ben]]></wp:author_display_name><wp:author_first_name><![CDATA[Ben]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<item>
 		<title>Gift construction</title>
-		<link>https://gifting.digital/?acf=acf_gift-construction</link>
+		<link>https://platform.gifting.digital/?acf=acf_gift-construction</link>
 		<pubDate>Wed, 05 Apr 2017 13:50:15 +0000</pubDate>
 		<dc:creator>ben</dc:creator>
-		<guid isPermaLink="false">https://gifting.digital/?post_type=acf&#038;p=15</guid>
+		<guid isPermaLink="false">https://platform.gifting.digital/?post_type=acf&#038;p=15</guid>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date>2017-04-05 14:50:15</wp:post_date>
 		<wp:post_date_gmt>2017-04-05 13:50:15</wp:post_date_gmt>
@@ -91,10 +91,10 @@
 	</item>
 	<item>
 		<title>Wrap definition</title>
-		<link>https://gifting.digital/?acf=acf_wrap-definition</link>
+		<link>https://platform.gifting.digital/?acf=acf_wrap-definition</link>
 		<pubDate>Wed, 05 Apr 2017 14:14:31 +0000</pubDate>
 		<dc:creator>ben</dc:creator>
-		<guid isPermaLink="false">https://gifting.digital/?post_type=acf&#038;p=21</guid>
+		<guid isPermaLink="false">https://platform.gifting.digital/?post_type=acf&#038;p=21</guid>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date>2017-04-05 15:14:31</wp:post_date>
 		<wp:post_date_gmt>2017-04-05 14:14:31</wp:post_date_gmt>
@@ -153,10 +153,10 @@
 	</item>
 	<item>
 		<title>Gift status</title>
-		<link>https://gifting.digital/?acf=acf_gift-status</link>
+		<link>https://platform.gifting.digital/?acf=acf_gift-status</link>
 		<pubDate>Thu, 06 Jul 2017 09:42:15 +0000</pubDate>
 		<dc:creator>growlingfish</dc:creator>
-		<guid isPermaLink="false">https://gifting.digital/?post_type=acf&#038;p=56</guid>
+		<guid isPermaLink="false">https://platform.gifting.digital/?post_type=acf&#038;p=56</guid>
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date>2017-07-06 09:42:15</wp:post_date>
 		<wp:post_date_gmt>2017-07-06 09:42:15</wp:post_date_gmt>
@@ -203,10 +203,10 @@
 	</item>
 	<item>
 		<title>Object extension</title>
-		<link>https://gifting.digital/?acf=acf_object-extension</link>
+		<link>https://platform.gifting.digital/?acf=acf_object-extension</link>
 		<pubDate>Sat, 15 Jul 2017 07:26:40 +0000</pubDate>
 		<dc:creator>growlingfish</dc:creator>
-		<guid isPermaLink="false">https://gifting.digital/?post_type=acf&#038;p=64</guid>
+		<guid isPermaLink="false">https://platform.gifting.digital/?post_type=acf&#038;p=64</guid>
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date>2017-07-15 07:26:40</wp:post_date>
 		<wp:post_date_gmt>2017-07-15 07:26:40</wp:post_date_gmt>
@@ -249,10 +249,10 @@
 	</item>
 	<item>
 		<title>Response</title>
-		<link>https://gifting.digital/?acf=acf_response</link>
+		<link>https://platform.gifting.digital/?acf=acf_response</link>
 		<pubDate>Fri, 22 Sep 2017 08:46:20 +0000</pubDate>
 		<dc:creator>growlingfish</dc:creator>
-		<guid isPermaLink="false">https://gifting.digital/?post_type=acf&#038;p=1057</guid>
+		<guid isPermaLink="false">https://platform.gifting.digital/?post_type=acf&#038;p=1057</guid>
 		<wp:post_id>1057</wp:post_id>
 		<wp:post_date>2017-09-22 08:46:20</wp:post_date>
 		<wp:post_date_gmt>2017-09-22 08:46:20</wp:post_date_gmt>
